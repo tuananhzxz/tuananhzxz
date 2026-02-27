@@ -19,5 +19,5 @@
 ---
 
 <div align="center">
-<sub>🌸 Được tạo nên với đam mê bởi Tuấn Anh • © 2025 • Chúc code của bạn luôn compile và cà phê luôn đậm đà ☕</sub>
+<sub>🌸 • Chúc code của bạn luôn compile và cà phê luôn đậm đà ☕</sub>
 </div>
