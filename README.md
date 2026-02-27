@@ -3,9 +3,6 @@
 <div align="center">
 
 *"Code là thơ ca được viết bằng logic, và mỗi dự án là một câu chuyện đang chờ được kể."*
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B7EC8&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%7C+Kiến+Trúc+Sư+Mobile;Tạo+Nên+Trải+Nghiệm+Số+Từ+Năm+2015;ReactJS+•+Angular+•+Java+•+Flutter)](https://git.io/typing-svg)
-
 </div>
 
 ---
